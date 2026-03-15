@@ -17,7 +17,7 @@ Simulate a production-ready retention call flow that:
 ---
 
 ## Demo Video
-👉 [Watch the full agent demo on Loom](https://www.loom.com/share/eb6bf93dabf5469293286fc97b89d115)
+ [Watch the full agent demo on Loom](https://www.loom.com/share/eb6bf93dabf5469293286fc97b89d115)
 
 ---
 
